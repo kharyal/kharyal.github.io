@@ -4,8 +4,7 @@ title: Publications
 ---
 
 
-<details>
-<summary><h3>2024</h3></summary>
+<details><summary><h2>2024</h2></summary>
 <table>
 <tr>
     <td>
@@ -33,8 +32,7 @@ title: Publications
 </table>
 </details>
 
-<details>
-<summary><h3>2022</h3></summary>
+<details><summary><h2>2022</h2></summary>
 
 <table>
   <tr>
@@ -63,8 +61,7 @@ title: Publications
 </table>
 </details>
 
-<details>
-<summary><h3>2021</h3></summary>
+<details><summary><h2>2021</h2></summary>
 
 <table>
   <tr>
