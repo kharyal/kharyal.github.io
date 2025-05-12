@@ -3,8 +3,9 @@ layout: home
 title: Publications
 ---
 
-## 2024
 
+<details>
+<summary><h3>2024</h3></summary>
 <table>
 <tr>
     <td>
@@ -30,8 +31,10 @@ title: Publications
     
   </tr>
 </table>
+</details>
 
-## 2022
+<details>
+<summary><h3>2022</h3></summary>
 
 <table>
   <tr>
@@ -58,8 +61,10 @@ title: Publications
     
   </tr>
 </table>
+</details>
 
-## 2021
+<details>
+<summary><h3>2021</h3></summary>
 
 <table>
   <tr>
@@ -76,6 +81,7 @@ title: Publications
     
   </tr>
 </table>
+</details>
 
 <!-- |img | [RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments](https://arxiv.org/abs/2103.10400)
 
