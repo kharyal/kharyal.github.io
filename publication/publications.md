@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-<details><summary><h2>2024</h2></summary>
+<details open><summary><h2>2024</h2></summary>
 <table>
 <tr>
     <td>
