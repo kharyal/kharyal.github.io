@@ -3,8 +3,7 @@ layout: home
 title: Publications
 ---
 
-
-<details open><summary><h2>2024</h2></summary>
+<details open><summary><h2>2025</h2></summary>
 <table>
 <tr>
     <td>
@@ -16,7 +15,16 @@ title: Publications
     <strong>Chaitanya Kharyal</strong>, Calarina Muslimani, Matthew E. Taylor
     </td>
 </tr>
+<tr>
+    
+</tr>
+</table>
+</details>
 
+
+
+<details><summary><h2>2024</h2></summary>
+<table>
 <tr>
     <td>
     <img src="graphics/DRL22.png" style="width:200px;height:60px;"> 
