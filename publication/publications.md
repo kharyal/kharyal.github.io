@@ -8,6 +8,17 @@ title: Publications
 <table>
 <tr>
     <td>
+    <a href="https://openreview.net/forum?id=vFP4e54pH5&noteId=vFP4e54pH5"><img src="graphics/RewardLearning.png" style="width:200px;height:60px;"> </a>
+    </td>
+    <td>
+    <b style="color:rgb(230, 74, 255)">Reward Learning Through Ranking Mean Squared Error</b> <br> 
+    <b>(RLC Workshop on Reinforcement Learning Beyond Rewards)</b> <br>
+    <strong>Chaitanya Kharyal</strong>, Calarina Muslimani, Matthew E. Taylor
+    </td>
+</tr>
+
+<tr>
+    <td>
     <img src="graphics/DRL22.png" style="width:200px;height:60px;"> 
     </td>
     <td>
