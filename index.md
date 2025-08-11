@@ -19,7 +19,7 @@ Currently, I am working on problems related to machine teaching, multi-agent rei
 The human brain and body have evolved over millions of years to become incredibly complex, making it difficult for us to fully understand our own capabilities. However, the challenge of replicating human-level intelligence in computers is a goal that drives many areas of research, including Machine Learning, Deep Learning, Computer Vision, Robotics, and Reinforcement Learning, which is why they intrigue me as much as they do. My ultimate aim is to contribute to this goal and gain a deeper understanding of human behavior and decision-making.
 
 #### News
-- [Aug 2025] I presented my work on [Reward Learning Through Ranking Mean Squared Error](https://openreview.net/forum?id=vFP4e54pH5&noteId=vFP4e54pH5) at the RLC Workshop on Reinforcement Learning Beyond Rewards.
+- [Aug 2025] I presented our work on [Reward Learning Through Ranking Mean Squared Error](https://openreview.net/forum?id=vFP4e54pH5&noteId=vFP4e54pH5) at the RLC Workshop on Reinforcement Learning Beyond Rewards.
 - [Sep 2024] I have joined the [IRL Lab](https://irll.ca/) at the University of Alberta.
 
 <!--- ## Welcome to GitHub Pages
