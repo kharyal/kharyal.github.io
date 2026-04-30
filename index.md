@@ -13,7 +13,7 @@ Here's the link to my updated (long ago) [resume](https://kharyal.github.io//CV.
 
 
 #### Current Research
-Currently, I am working on problems related to machine teaching, multi-agent reinforcement learning, and curriculum learning.
+Currently, I am working on problems related to reinforcement learning from human feedback (RLHF), and continual learning.
 
 #### My Research Statement
 The human brain and body have evolved over millions of years to become incredibly complex, making it difficult for us to fully understand our own capabilities. However, the challenge of replicating human-level intelligence in computers is a goal that drives many areas of research, including Machine Learning, Deep Learning, Computer Vision, Robotics, and Reinforcement Learning, which is why they intrigue me as much as they do. My ultimate aim is to contribute to this goal and gain a deeper understanding of human behavior and decision-making.
