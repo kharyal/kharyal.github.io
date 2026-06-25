@@ -5,6 +5,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }}{% if page.venue %} · {{ page.venue }} {{ page.venue_year }}{% endif %}</title>
   <meta name="description" content="{% if page.abstract_short %}{{ page.abstract_short }}{% else %}{{ page.title }}{% endif %}" />
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            renderMathInElement(document.body, {
+              // customised options
+              // • auto-render specific keys, e.g.:
+              delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false},
+                {left: "\\(", right: "\\)", display: false},
+                {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+                {left: "\\begin{align}", right: "\\end{align}", display: true},
+                {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+                {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+                {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+                {left: "\\[", right: "\\]", display: true}
+              ],
+              // • rendering keys, e.g.:
+              throwOnError : true,
+              // eqref
+              trust: (context) => ['\\htmlId', '\\href'].includes(context.command),
+              macros: {
+                  "\\eqref": "\\href{###1}{(\\text{#1})}",
+                  "\\ref": "\\href{###1}{\\text{#1}}",
+                  "\\label": "\\htmlId{#1}{}",
+                  "\\norm": ["\\left\\lVert #1 \\right\\rVert_{#2}", 2],
+              }
+            });
+        });
+    </script>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+          anchor.addEventListener('click', function (e) {
+            const targetId = this.getAttribute('href').substring(1);
+            const target = document.getElementById(targetId);
+
+            if (target) {
+              // Find the closest .katex container (this is the visible equation block)
+              const katexContainer = target.closest('.katex-display');
+              if (katexContainer) {
+                // Remove existing highlight
+                katexContainer.classList.remove('highlight-target');
+                // Trigger reflow to restart animation
+                void katexContainer.offsetWidth;
+                // Add highlight class
+                katexContainer.classList.add('highlight-target');
+              }
+            }
+          });
+        });
+      });
+    </script>
 
   <!--
     Fonts: Noto Sans (matches the site's self-hosted font) + Noto Serif for the
