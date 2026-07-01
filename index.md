@@ -25,6 +25,11 @@ The human brain and body have evolved over millions of years to become incredibl
 - [Aug 2025] I presented our work on [Reward Learning Through Ranking Mean Squared Error](https://openreview.net/forum?id=vFP4e54pH5&noteId=vFP4e54pH5) at the RLC Workshop on Reinforcement Learning Beyond Rewards.
 - [Sep 2024] I have joined the [IRL Lab](https://irll.ca/) at the University of Alberta.
 
+#### Service
+- [Jun 2026] Served as TMLR reviewer.
+- Served as ICML'26 (ghost) reviewer.
+- Served as ICLR'26 (ghost) reviewer.
+
 <!--- ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/roomno308/roomno308.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
