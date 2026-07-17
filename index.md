@@ -5,7 +5,7 @@ title: Namaste!
 
 Welcome to my homepage.
 
-I am currently pursuing an MSc (Thesis) in Computing Science at the [University of Alberta](https://www.ualberta.ca/en/index.html), under the supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/). Previously, I worked as a software developer at [Microsoft IDC](https://www.microsoft.com/en-in/msidc/). My research interests include Machine Learning, Computer Vision, Robotics, Reinforcement Learning, and related fields.
+I am currently pursuing my PhD in Computing Science at the [University of Alberta](https://www.ualberta.ca/en/index.html), under the supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/). Previously, I worked as a software developer at [Microsoft IDC](https://www.microsoft.com/en-in/msidc/). My research interests include Machine Learning, Computer Vision, Robotics, Reinforcement Learning, and related fields.
 
 I completed my Bachelor's degree in Electronics and Communication Engineering, with an Honors in Robotics, from [IIIT Hyderabad](https://www.iiit.ac.in/). During my undergraduate studies, I worked as a researcher at the [Robotics Research Center](https://robotics.iiit.ac.in/) at IIIT Hyderabad.
 
