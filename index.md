@@ -9,7 +9,7 @@ I am currently pursuing my PhD in Computing Science at the [University of Albert
 
 I completed my Bachelor's degree in Electronics and Communication Engineering, with an Honors in Robotics, from [IIIT Hyderabad](https://www.iiit.ac.in/). During my undergraduate studies, I worked as a researcher at the [Robotics Research Center](https://robotics.iiit.ac.in/) at IIIT Hyderabad.
 
-Here's the link to my updated (long ago) [resume](https://kharyal.github.io//CV.pdf) and my (Updated: 18-Dec-23) [academic CV](https://kharyal.github.io//academic.pdf)
+Here's the link to my updated (long ago) [resume](https://kharyal.github.io//CV.pdf) and my (Updated: 23-Jul-26) [academic CV](https://kharyal.github.io//academic.pdf)
 
 
 #### Current Research
